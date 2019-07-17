@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
+<title>chromecast-backgrounds</title>
+<link>https://github.com/FiveTechSoft/chromecast-backgrounds</link>
+<description>dconnolly chromecast-backgrounds collection</description>
 <item><link>https://lh6.googleusercontent.com/-A0tXm8gjfMU/U08VDMRGtuI/AAAAAAAAvrI/IQEscTGZyJY/s1920-w1920-h1080-c/IMG_0293%2Bhe.jpg</link></item>
 <item><link>https://lh6.googleusercontent.com/-3LiF-MBl6OE/UO5TXZ724aI/AAAAAAAAE50/JWLqdeEM9QY/s1920-w1920-h1080-c/Colorado%2BRiver%2BSunset.jpg</link></item>
 <item><link>https://lh4.googleusercontent.com/-wkrGBuk0DoA/Us9JnUoXnTI/AAAAAAAAkTA/yDQexzLKhKY/s1920-w1920-h1080-c/DSC_0660.JPG</link></item>
@@ -703,5 +706,4 @@
 <item><link>https://lh5.googleusercontent.com/-ps4uT_pEdCE/RpKjlC16MuI/AAAAAAAAAt0/n09gNExGMl0/s1920-w1920-h1080-c/DSC_2079-1.JPG</link></item>
 <item><link>https://lh3.googleusercontent.com/-mgMvF53YBMM/UNbG3fnrFFI/AAAAAAAACQU/-u_8-yRrG24/s1920-w1920-h1080-c/Double%2BRainbow.jpg</link></item>
 <item><link>https://lh6.googleusercontent.com/-M6BRAUZHPyo/UfbbKobVOKI/AAAAAAAAK_M/4WIHtFv7Idk/s1920-w1920-h1080-c/MWF_6457-2.jpg</link></item>
-
 </channel></rss>
